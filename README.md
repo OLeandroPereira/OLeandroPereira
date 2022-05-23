@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @OLeandroPereira
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-OLeandroPereira/OLeandroPereira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Leandro
+- 👀 Estou especializando-me em tecnoligia WEB
+- 🌱 I’m currently learning  HTML|CSS|JAVASCRIPT|VUE
+- 💞️ I’m looking to  ser melhor a cada dia, com intuito de crescer exponcialmente
+- 📫 Linkedin: https://www.linkedin.com/in/leandro-pereira-599409156
