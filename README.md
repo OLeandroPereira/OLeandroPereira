@@ -1,12 +1,8 @@
-<img alin="right" heigt="590" src="https://raw.githubusercontent.com/gist/OLeandroPereira/444f30c36901c1868479190125a2e134/raw/e0040807a4354d2e66f432d1beafc969088b2ca0/githubcard.svg"/>
+<img alin="right" heigt="590em" src="https://raw.githubusercontent.com/gist/OLeandroPereira/444f30c36901c1868479190125a2e134/raw/e0040807a4354d2e66f432d1beafc969088b2ca0/githubcard.svg"/>
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Leandro Pereira</h1>
+<h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Leandro Pereira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OLeandroPereira&color=yellow" alt="Profile views" /> </p>
 
-
-
-
-<!--
 
 <br><br>
 
