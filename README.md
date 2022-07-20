@@ -1,4 +1,4 @@
-<img align="right" height="475em" src="https://raw.githubusercontent.com/gist/OLeandroPereira/444f30c36901c1868479190125a2e134/raw/d3fc0b855729afa0d4452bd34f07a0248602104a/githubcard.svg"/>
+<img align="right" height="617em" src="https://raw.githubusercontent.com/gist/OLeandroPereira/444f30c36901c1868479190125a2e134/raw/d3fc0b855729afa0d4452bd34f07a0248602104a/githubcard.svg"/>
 
 <h1 align="left">Hello<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Leandro Pereira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OLeandroPereira&color=yellow" alt="Profile views" /> </p>
@@ -24,16 +24,21 @@
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=FIGMA)
 
 
-<br><br>
+<br>
 
 ## ⚙️ &nbsp;GitHub
 
 <div align="center">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=OLeandroPereira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OLeandroPereira&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=OLeandroPereira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OLeandroPereira&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-<br><br>
+<br>
 
 ## Contact
+
+<a href="https://linkedin.com/in/leandro-pereira-599409156/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-leandropereira-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
 
