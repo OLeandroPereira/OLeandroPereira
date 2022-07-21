@@ -38,7 +38,7 @@
 
 ## Contact
 
-<a href="https://linkedin.com/in/leandro-pereira-599409156/" target="_blank">
+<a href="https://linkedin.com/in/leandropereira-dev/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-leandropereira-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 
