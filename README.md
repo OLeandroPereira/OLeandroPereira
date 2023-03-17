@@ -42,3 +42,7 @@
   <img align="center" src="https://img.shields.io/badge/-leandropereira-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 
+<a href="https://www.instagram.com/le_codigo/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-le_codigo-05122A?style=flat&logo=instagram&logoColor=FF0000" alt="linkedin"/>
+</a>
+
