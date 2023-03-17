@@ -17,6 +17,8 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap)&nbsp;
 ![Javascript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JAVASCRIPT)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=Vue.js)&nbsp;
+![Quasar](https://img.shields.io/badge/-Quasar-05122A?style=flat&logo=Quasar)&nbsp;
+![Vuetify](https://img.shields.io/badge/-Vuetify-05122A?style=flat&logo=Vuetify)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
