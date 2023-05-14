@@ -5,7 +5,7 @@
 
 - 👨🏽‍🎓 Analise e desenvolvimento de sistemas
 - 🧑🏽‍💻 Desenvolvedor Front-end
-- 📈 Aprendendo a solucionar problemas, e ajudar pesssoas!
+- 📈 Adoro resolver problemas, e ajudar pesssoas!
 
 <br>
 
