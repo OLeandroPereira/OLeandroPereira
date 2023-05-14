@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OLeandroPereira&color=yellow" alt="Profile views" /> </p>
 
 - 👨🏽‍🎓 Analise e desenvolvimento de sistemas
-- 🧑🏽‍💻 Estudando programação web
+- 🧑🏽‍💻 Desenvolvedor Front-end
 - 📈 Aprendendo a solucionar problemas, e ajudar pesssoas!
 
 <br>
